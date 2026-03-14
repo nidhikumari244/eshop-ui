@@ -40,26 +40,20 @@ This project was built to practice **frontend web development concepts** such as
 
 ---
 
-## 📸 Project Preview
-
-(Add screenshot here later)
-
----
-
 ## 🌱 Future Improvements
 
 - Add JavaScript functionality
 - Implement product search
 - Add shopping cart functionality
 - Make fully responsive for all devices
-
 ---
-
-## 👩‍💻 Author
-
-**Nidhi Gupta**  
-Computer Science & Engineering Student
 
 ## Project Preview
 
 ![Project Preview](project-preview.png)
+---
+
+## 👩‍💻 Author
+
+**Nidhi kumari**  
+Computer Science & Engineering Student
