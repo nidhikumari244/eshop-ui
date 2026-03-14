@@ -1,3 +1,15 @@
+# Amazon Clone UI
+
+A responsive E-Commerce website interface built using HTML and CSS.  
+The project demonstrates modern UI layout, navigation bar, product sections and responsive design.
+
+## Live Demo
+https://nidhikumari244.github.io/eshop-ui/
+
+## Technologies Used
+- HTML
+- CSS
+
 # 🛒 E-Shop UI
 
 A responsive **E-Commerce website interface** built using **HTML and CSS**.  
@@ -50,8 +62,8 @@ This project was built to practice **frontend web development concepts** such as
 
 ## Project Preview
 
-![Project Preview](project-preview.png)
----
+![Preview](project-preview.png.png)
+
 
 ## 👩‍💻 Author
 
